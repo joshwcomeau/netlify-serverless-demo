@@ -1,0 +1,136 @@
+[
+  {
+    "question": "Relationship status?",
+    "answer": "I'll leave the relations to the database."
+  },
+  {
+    "question": "How do you get the code for the bank vault?",
+    "answer": "You checkout their branch."
+  },
+  {
+    "question": "How did the developer announce their engagement?",
+    "answer": "They `return`ed `true`!"
+  },
+  {
+    "question": "Why did the security conscious engineer refuse to pay their dinner bill?",
+    "answer": "Because they could not verify the checksum."
+  },
+  { "question": "What do you call a busy waiter?", "answer": "A server." },
+  { "question": "What do you call an idle server?", "answer": "A waiter." },
+  {
+    "question": "How many Prolog programmers does it take to change a lightbulb?",
+    "answer": "Yes."
+  },
+  {
+    "question": "What diet did the ghost developer go on?",
+    "answer": "Boolean"
+  },
+  {
+    "question": "Why was the developer unhappy at their job?",
+    "answer": "They wanted arrays."
+  },
+  {
+    "question": "Why was the function sad after a successful first call?",
+    "answer": "It didn’t get a callback."
+  },
+  {
+    "question": "Why did the angry function exceed the callstack size?",
+    "answer": "It got into an Argument with itself"
+  },
+  {
+    "question": "Whats the object-oriented way to become wealthy?",
+    "answer": "Inheritance"
+  },
+  {
+    "question": "Why did the developer ground their kid?",
+    "answer": "They weren't telling the truthy"
+  },
+  {
+    "question": "What did the array say after it was extended?",
+    "answer": "Stop objectifying me."
+  },
+  {
+    "question": "Where did the parallel function wash its hands?",
+    "answer": "Async"
+  },
+  {
+    "question": "What's the second movie about a database engineer called?",
+    "answer": "The SQL."
+  },
+  {
+    "question": "Why doesn't Hollywood make more Big Data movies?",
+    "answer": "NoSQL."
+  },
+  {
+    "question": "What did the spider do on the computer?",
+    "answer": "Made a website!"
+  },
+  {
+    "question": "What did the computer do at lunchtime?",
+    "answer": "Had a byte!"
+  },
+  {
+    "question": "What does a baby computer call his father?",
+    "answer": "Data!"
+  },
+  {
+    "question": "Why was the computer freezing?",
+    "answer": "It left its Windows open!"
+  },
+  {
+    "question": "Why did the computer squeak?",
+    "answer": "Because someone stepped on its mouse!"
+  },
+  {
+    "question": "What do you get when you cross a computer and a life guard?",
+    "answer": "A screensaver!"
+  },
+  {
+    "question": "Where do all the cool mice live?",
+    "answer": "In their mousepads!"
+  },
+  {
+    "question": "What do you get when you cross a computer with an elephant?",
+    "answer": "Lots of memory!"
+  },
+  {
+    "question": "How do programming pirates pass method parameters?",
+    "answer": "Varrrrarrrgs."
+  },
+  {
+    "question": "How do programming shepherds count their flock?",
+    "answer": "With lambda functions"
+  },
+  {
+    "question": "What airline do developers prefer when they're in a rush?",
+    "answer": "Delta."
+  },
+  {
+    "question": "How did pirates collaborate before computers?",
+    "answer": "Pier to pier networking."
+  },
+  {
+    "question": "Why don't bachelors like Git?",
+    "answer": "Because they are afraid to commit."
+  },
+  {
+    "question": "Why did the developer go broke?",
+    "answer": "Because they used up all their cache"
+  },
+  {
+    "question": "Are computers dangerous?",
+    "answer": "Nah, they don't byte. They just nibble a bit."
+  },
+  {
+    "question": "How did the mafioso kill the Node server?",
+    "answer": "Tie await to it and let it async."
+  },
+  {
+    "question": "What do you do when you can't understand your husband's behavior?",
+    "answer": "man man"
+  },
+  {
+    "question": "What do you call a doctor who fixes websites?",
+    "answer": "A URLogist"
+  }
+]
