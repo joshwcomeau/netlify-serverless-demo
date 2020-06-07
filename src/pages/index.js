@@ -5,19 +5,13 @@ import "../styles.css"
 const IndexPage = () => {
   const [joke, setJoke] = React.useState(null)
 
-  React.useEffect(() => {
-    fetch("/.netlify/functions/get-joke")
-      .then(res => res.json())
-      .then(data => {
-        console.log(data)
-        setJoke(data.joke)
-      })
-  }, [])
-
   return (
     <main>
-      <h1>Functions demo</h1>
-      <p>The following is a dad joke generated ☁️ in the AWS cloud ☁️</p>
+      <h1>Functions Demo</h1>
+      <p>
+        The following is a dad joke generated <span aria-label="cloud">☁️</span>{" "}
+        in the cloud <span aria-label="cloud">☁️</span>
+      </p>
 
       {joke && (
         <details>
