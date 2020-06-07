@@ -5,6 +5,12 @@ import "../styles.css"
 const IndexPage = () => {
   const [joke, setJoke] = React.useState(null)
 
+  React.useEffect(() => {
+    fetch("/.netlify/functions/get-joke")
+      .then(res => res.json())
+      .then(data => setJoke(data.joke))
+  }, [])
+
   return (
     <main>
       <h1>Functions Demo</h1>
